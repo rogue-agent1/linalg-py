@@ -1,5 +1,9 @@
 # linalg-py
-Linear algebra: Gaussian elimination, eigenvalues, Gram-Schmidt. Zero dependencies.
-```
-python3 linalg-py.py --test
+Linear Algebra - LU decomposition, eigenvalues, SVD power method
+
+Zero-dependency Python CLI tool.
+
+## Usage
+```bash
+python3 linalg.py
 ```
